@@ -5,6 +5,7 @@ If got issue with setup kafka in machine (laptop, pc), then can review the kafka
 <br> Follow this youtube for those using windows OS, the video is following Kafka QuickStart [How to Install Apache Kafka on Windows](https://www.youtube.com/watch?v=aKDWWICgfA0)
 
 # Step to setup Kafka
+**NOTE: Your local environment must have Java 8+ installed.**
 1. Download latest Kafka 3.6.0. [Kafka Download Link](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.6.0/kafka_2.13-3.6.0.tgz)
 2. Extract the kafka tgz file.
 3. 
